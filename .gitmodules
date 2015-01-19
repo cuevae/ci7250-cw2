@@ -1,0 +1,3 @@
+[submodule "access-svc"]
+	path = access-svc
+	url = https://github.com/cuevae/access-svc.git
